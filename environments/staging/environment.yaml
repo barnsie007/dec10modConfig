@@ -8,7 +8,7 @@ app:
   # Set the provided build version ID to deploy for the "Build, deploy, and run"
   # scenario. If the value is set to an empty string ("") or the field is
   # commented out, the application is not deployed.
-  version: "e51f8138-57d9-444b-8bbe-dfc4a8e201f7"
+  version: ""
 
   # Set the Maven coordinates of the Maven artifact to deploy for the
   # "Deploy, and run" scenario.
@@ -110,7 +110,7 @@ app:
   # can change and might not be unique.
   services:
     - crn: 'crn:v1:bluemix:public:mqcloud:us-east:a/26a5e866a11a5014f2eca2acab86f048:123019ac-5871-4f20-8e10-1207b38721fc::'
-    - crn: 'crn:v1:bluemix:public:dashdb-for-transactions:us-east:a/26a5e866a11a5014f2eca2acab86f048:f1342721-a485-4d0e-9845-98b70884ed7d::'
+    - crn: 'crn:v1:bluemix:public:dashdb-for-transactions:us-east:a/26a5e866a11a5014f2eca2acab86f048:4cf2da71-d5ac-4c72-bc15-1d89b598546d::'
     
   #- name: "my Db2 instance"
   #  type: db2
