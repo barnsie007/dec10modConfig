@@ -63,7 +63,7 @@ app:
     - name: httpEndpoint_host_13
       value: "*"
     - name: MQ_ghettoes1Node01Cell_MQQueueConnectionFactory_1724680626143_queueManager
-      value: "JCDEC9"
+      value: "DEC10"
     - name: NodeDefaultSSLSettings_ghettoes1Node01Cell_SSLConfig_ghettoes1Node01_1_sslProtocol
       value: "TLS"
     - name: io_openliberty_sample_system_inMaintenance
