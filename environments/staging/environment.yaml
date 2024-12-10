@@ -8,7 +8,7 @@ app:
   # Set the provided build version ID to deploy for the "Build, deploy, and run"
   # scenario. If the value is set to an empty string ("") or the field is
   # commented out, the application is not deployed.
-  version: ""
+  version: "05f5a389-71e8-4f3d-a3e3-3b903abd4bc6"
 
   # Set the Maven coordinates of the Maven artifact to deploy for the
   # "Deploy, and run" scenario.
@@ -57,7 +57,7 @@ app:
     - name: jmsQueue_ghettoes1Node01_server1_MQQueue_1724680050895_baseQueueName
       value: "DEV.QUEUE.1"
     - name: MQ_ghettoes1Node01Cell_MQQueueConnectionFactory_1724680626143_host
-      value: "jcdec9-ce3d.qm1230.private.us-east.mq2.appdomain.cloud"
+      value: "dec10-8e47.qm1230.private.us-east.mq2.appdomain.cloud"
     - name: DB2_Universal_JDBC_Driver_XA_DataSource_ghettoes1Node01Cell_DataSource_1724255898616_serverName
       value: "4cf2da71-d5ac-4c72-bc15-1d89b598546d-useast-private.bt1ibm.db2.ibmappdomain.cloud"
     - name: httpEndpoint_host_13
